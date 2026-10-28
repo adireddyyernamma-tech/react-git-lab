@@ -1,2 +1,5 @@
-# react-git-lab
-React application with Git and Github workflow
+<html>
+  <head
+    FSD
+    </head>
+</html>
